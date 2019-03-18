@@ -36,7 +36,7 @@
 
 - Algorithms
     - Machine Learning
-        - [RandomForest](https://github.com/allwefantasy/streamingpro/blob/master/docs/docv2/algorithms/RandomForest.md))
+        - [RandomForest](https://github.com/allwefantasy/streamingpro/blob/master/docs/docv2/algorithms/RandomForest.md)
         - [NaiveBayes]()
         - [ALS]()
         - [GBTRegressor](#gbtregressor)
